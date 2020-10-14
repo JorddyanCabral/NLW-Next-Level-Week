@@ -29,4 +29,10 @@
 * cd web
   yarn start *
 
-[ ]adsda
+
+# O que é um componente ? 
+    componente é uma function de retorno HTML
+
+# Prorpiedades ?
+    Prorpiedades = Atributo 
+     
