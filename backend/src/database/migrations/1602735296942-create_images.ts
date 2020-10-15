@@ -1,4 +1,4 @@
-import {MigrationInterface, QueryRunner, Table, TableForeignKey} from "typeorm";
+import {MigrationInterface, QueryRunner, Table, } from "typeorm";
 
 export class createImages1602735296942 implements MigrationInterface {
   public async up(queryRunner: QueryRunner): Promise<void> {
